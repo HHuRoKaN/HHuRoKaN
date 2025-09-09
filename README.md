@@ -1,13 +1,13 @@
 ### &#128736; Стек:
 
-![Python](https://img.shields.io/badge/python-%252320232a?style=for-the-badge&logo=python&logoColor=%252361DAFB&color=black)
-![Docker](https://img.shields.io/badge/Docker-%252320232a?style=for-the-badge&logo=Docker&logoColor=%252361DAFB&color=black)
+![Python](https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python&logoColor=%252361DAFB)
+![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=Docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%252320232a?style=for-the-badge&logo=Nginx&logoColor=%252361DAFB&color=black)
-![Bash](https://img.shields.io/badge/Bash-%252320232a?style=for-the-badge&logo=Bash&logoColor=%252361DAFB&color=black)
-![FastApi](https://img.shields.io/badge/FastApi-%252320232a?style=for-the-badge&logo=FastApi&logoColor=%252361DAFB&color=black)
-![Django](https://img.shields.io/badge/Django-%252320232a?style=for-the-badge&logo=Django&logoColor=%252361DAFB&color=black)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%252320232a?style=for-the-badge&logo=CI%2FCD&logoColor=%252361DAFB&color=black)
-![ООП](https://img.shields.io/badge/%D0%9E%D0%9E%D0%9F-%252320232a?style=for-the-badge&logo=%D0%9E%D0%9E%D0%9F&logoColor=%252361DAFB&color=black)
+![Bash](https://img.shields.io/badge/bash-green?style=for-the-badge&logo=bash&logoColor=white)
+![FastApi](https://img.shields.io/badge/FastApi-gray?style=for-the-badge&logo=FastApi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-yellow?style=for-the-badge&logo=Django&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-violet?style=for-the-badge&logo=CI%2FCD&logoColor=white)
+![ООП](https://img.shields.io/badge/%D0%9E%D0%9E%D0%9F-gray?style=for-the-badge&logo=%D0%9E%D0%9E%D0%9F&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2300758F.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
