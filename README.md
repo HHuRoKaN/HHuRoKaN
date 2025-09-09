@@ -10,6 +10,8 @@
 ![ООП](https://img.shields.io/badge/%D0%9E%D0%9E%D0%9F-gray?style=for-the-badge&logo=%D0%9E%D0%9E%D0%9F&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2300758F.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
